@@ -6,4 +6,4 @@ Download [GeoPDF](rrg_arches.pdf)
 
 ![image of GeoPDF](images/rrg.jpg)
 
-[Web page at: https://vfrimpong.github.io/rrg/ ](https://vfrimpong.github.io/rrg/)****
+[Web page at: https://vfrimpong.github.io/rrg/ ](https://vfrimpong.github.io/rrg/)
