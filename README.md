@@ -1,4 +1,4 @@
-# Popular Arches of the red River Gorge
+# Popular Arches of the Red River Gorge
 
 Download [GeoPDF](rrg_arches.pdf)
 
