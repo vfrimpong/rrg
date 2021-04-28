@@ -6,4 +6,13 @@ Download [GeoPDF](rrg_arches.pdf)
 
 ![image of GeoPDF](images/rrg.jpg)
 
-[Web page at: https://vfrimpong.github.io/rrg/ ](https://vfrimpong.github.io/rrg/)
+## View of Princess Arch 
+
+![view of Princess Arch](images/princessarchlayout.jpg)
+
+## Animation
+
+![Animation of Princes Arch](images/Screenshot_YT.jpg)
+
+[Link to video](https://youtu.be/BvEDHBUPogM)
+
