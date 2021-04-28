@@ -12,13 +12,13 @@ Download [GeoPDF](rrg_arches.pdf)
 
 ## Animation
 
-![3D map of Princess Arch](images/youtubecapture2.jpg)
+![3D map of Princess Arch](images/Screenshot_YT.jpg)
 
 [Link to video](https://youtu.be/BvEDHBUPogM)
 
 ## Interactive Map
 
-![Potree point cloud render](images/Capture2render2.jpg)
+![Potree point cloud render](images/Capture2render.jpg)
 
 [Link to Potree point cloud render](potree)
 
