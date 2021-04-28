@@ -1,4 +1,4 @@
-# Popular Arches of the Red River Gorge
+# Popular Arches of the red River Gorge
 
 Download [GeoPDF](rrg_arches.pdf)
 
@@ -6,13 +6,23 @@ Download [GeoPDF](rrg_arches.pdf)
 
 ![image of GeoPDF](images/rrg.jpg)
 
-## View of Princess Arch 
+## View of Princess Arch
 
-![view of Princess Arch](images/princessarchlayout.jpg)
+![View of princess Arch](images/princessarchlayout.jpg)
 
 ## Animation
 
-![Animation of Princes Arch](images/Screenshot_YT.jpg)
+![3D map of Princess Arch](images/youtubecapture2.jpg)
 
 [Link to video](https://youtu.be/BvEDHBUPogM)
+
+## Interactive Map
+
+![Potree point cloud render](images/Capture2render2.jpg)
+
+[Link to Potree point cloud render](potree)
+
+[Web page at: https://vfrimpong.github.io/rrg/ ](https://vfrimpong.github.io/rrg/)
+
+
 
